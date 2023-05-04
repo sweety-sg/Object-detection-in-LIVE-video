@@ -9,21 +9,25 @@ truck
 boat
 traffic light
 fire hydrant
+toothbrush
 stop sign
 parking meter
 bench
 bird
 cat
-horse
 dog
+horse
 sheep
 cow
 elephant
 bear
 zebra
 giraffe
+teddy bear
 backpack
 umbrella
+scissors
+hair drier
 handbag
 tie
 suitcase
@@ -38,6 +42,7 @@ skateboard
 surfboard
 tennis racket
 bottle
+vase
 wine glass
 cup
 fork
@@ -58,8 +63,12 @@ chair
 sofa
 pottedplant
 bed
+clock
 diningtable
+book
+refrigerator
 toilet
+sink
 tvmonitor
 laptop
 mouse
@@ -69,12 +78,9 @@ cell phone
 microwave
 oven
 toaster
-sink
-refrigerator
-book
-clock
-vase
-scissors
-teddy bear
-hair drier
-toothbrush
+
+
+
+
+
+
